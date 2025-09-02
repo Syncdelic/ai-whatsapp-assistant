@@ -1,4 +1,3 @@
-````markdown
 # WhatsApp AI Assistant
 
 This project is a **Flask application** that integrates:
